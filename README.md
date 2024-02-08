@@ -1,7 +1,1 @@
-
-
-
-# MLFLOW
-ciclo de vida de modelos com MLflow
-controlar experimentos de Machine Learning
-reproduzir modelo criados com o MLflow
+<a href="https://colab.research.google.com/github/devluz2023/deteccao-fraude/blob/main/Detec_Fraude.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
